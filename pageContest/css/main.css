@@ -1,0 +1,181 @@
+.recall_js_text2{
+	position: absolute;
+	color: black;
+	font-family: 隶书 ;
+	font-size: 1.2em;
+	left: -200px;
+}
+.recall_js_text3{
+	position: absolute;
+	color: black;
+	font-family: 隶书 ;
+	font-size: 1.2em;
+	left: -300px;
+}
+
+.recall_header{
+	font-family: 隶书 ;
+	font-size: 4em;
+	text-align: center;
+}
+.high_1_1{
+	font-family: 隶书 ;
+	font-size:2em;
+	color:red;
+}
+.high_1_2{
+	font-size:1em;
+	color: orangered;
+}
+.high_2_1{
+	font-family: 隶书 ;
+	font-size:2em;
+	color:red;
+}
+.high_2_2{
+	font-size:1em;
+	color: orangered;
+}
+
+.high_3_1{
+	font-family: 隶书 ;
+	font-size:2em;
+	color:red;
+}
+.high_3_2{
+	font-size:1em;
+	color: orangered;
+}
+
+.title{
+	color: black;
+	font-size: 1.5em;
+	font-family: 隶书 ;
+}
+.content{
+	color: red;
+	background-color: papayawhip;
+	height: 100px;
+	left: -1000px;
+}
+
+.fourTextImg{
+	
+}
+#fourText{
+	background-color: paleturquoise;
+}
+#university{
+	background-color:black;
+	height: 350px;
+}
+
+.menu_4_bg2{
+	background-color: #000000;
+	height: 200px;
+}
+.samealert{
+	font-family: 隶书;
+	font-size:2em;
+	color:red;
+	left: -300px;
+	text-align: center;
+}
+.title2{
+	font-family: 隶书;
+	text-align: center;
+	color:#761C19;
+	font-size: 2.5em;
+}
+.text2{
+	font-family: 隶书;
+	text-align: center;
+	color: #101010;
+	font-size: 1.5em;
+}
+.we-same{
+	background-color: #DBDBDB;
+	height: 300px;
+}
+.askdiv{
+	background-color: palegoldenrod;
+	height: 600px;
+}
+.title3{
+	text-align: center;
+	color:black;
+	font-family: 隶书;
+	font-size: 3em;
+	top: 20px;
+}
+.text3{
+	border: dashed 1px red;
+	background-color: papayawhip;
+	font-family: 隶书;
+	text-align: center;
+	color: black;
+	font-size: 1.5em;
+}
+.heart1{
+	color: #31B0D5;
+	font-size: 1.5em;
+	font-family: 隶书;
+}
+.heart2{
+	color: red;
+	font-size: 2.5em;
+	font-family: 隶书;
+}
+.getbig{
+	
+transition:width 2s;
+-moz-transition:width 2s; 
+-webkit-transition:width 2s; 
+-o-transition:width 2s; 
+transition:height 2s;
+-moz-transition:height 2s; 
+-webkit-transition:height 2s; 
+-o-transition:height 2s; 
+}
+
+.getbig:hover
+{
+width:600px;
+height:300px
+}
+
+.testimonial-container{
+	height: 300px;
+	background-image: url(../img/858985.jpg);
+	background-repeat: no-repeat;
+	background-size: 800px 600px;
+	box-shadow: #28A4C9;
+}
+.testimonial-speech{
+	font-family: 隶书;
+	font-size: 1.5em;
+}
+.finally{
+	background-color:#F5E79E;
+	height: 700px;
+}
+.finally_header{
+	text-align: center;
+	font-family: 隶书;
+	font-size: 2em;
+	color: darkmagenta;
+}
+.finally{
+	color: black;
+	font-family: 隶书;
+	font-size: 1.5em;
+}
+.finallyshow{
+	width: 10px;
+}
+.finallyshowword{
+	display:inline-block;
+	margin-left: 90px;
+	display: none;
+}
+
